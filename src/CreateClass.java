@@ -50,7 +50,7 @@ import java.util.*;
  */
 
 public class CreateClass {
-    public static void main(String[] args) throws FileNotFoundException, IOException {
+    public static void main(String[] args) throws IOException {
         SootClass sClass;
         SootMethod method;
 
